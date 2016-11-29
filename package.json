@@ -1,0 +1,22 @@
+{
+  "name": "webpack-base",
+  "version": "1.0.0",
+  "description": "This is a webpack seed ",
+  "main": "''",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvarezhcr/webpack-base.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Mariano Alvarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malvarezhcr/webpack-base/issues"
+  },
+  "homepage": "https://github.com/malvarezhcr/webpack-base#readme"
+}
