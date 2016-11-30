@@ -1,5 +1,10 @@
 ### Things needed
 
+npm i
+
+### NPM Scripts
+
+
 Install editorconfig
 
 Style guide reference
